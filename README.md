@@ -15,6 +15,7 @@ Recommendations:
 
 Once you finish with **The HTML body**, you should have a `html` file with several examples applying the different tags you were playing in the tutorial (do not include any JS o CSS code).
 
+Finally [validate your file](http://validator.w3.org/)
 # CSS
 
 * Create a basic [index.html](https://raw.githubusercontent.com/h5bp/html5-boilerplate/master/index.html) file (example provided).
