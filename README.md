@@ -4,6 +4,8 @@
 
 All the basics about the markup language are available at [WebPlatform](http://docs.webplatform.org/wiki/html/tutorials). Please follow the different tutorials and you will be learning from basic tag semantics (span, p, div) to others more specific as (section, article, nav, etc).
 
+Also you can learn and do exercise in [codecademy](http://www.codecademy.com/tracks/web).
+
 Recommendations:
 
 1. **The Basics of HTML:** create a basic `.html` file and experiment a little with your browser modifying and reloading to see the changes reflected.
@@ -28,6 +30,7 @@ Once you finish with **The HTML body**, you should have a `html` file with sever
 ![alt text](images/anatomy-of-a-css-rule.gif "Anatomy of a CSS rule")
 
 * [Brief of CSS selectors](http://www.sitepoint.com/web-foundations/css-selectors/)
+* [More Css selectors](http://estelle.github.io/selectors/#slide1)
 * [CSS3 selectors sheet](http://www.w3.org/TR/css3-selectors/)
 * [Play a little game to consolidate your knowledge](http://flukeout.github.io/)
 * [Bookmark the following list of properties for future reference](http://ref.openweb.io/CSS/)
@@ -37,7 +40,8 @@ Once you finish with **The HTML body**, you should have a `html` file with sever
     * Add a global font definition (at html element) with a value of 14px, using a font-family you like.
     * Make the header and footer text centered.
     
-### Specificity        
+### Specificity
+![alt text](images/specifishity.gif "Specificity")
 [Learn about CSS Specificity (basically how the rules override others)](http://www.w3.org/TR/CSS21/cascade.html#specificity)
 
 * [Experiment specificity right now using CSS3 selectors](http://specificity.keegan.st/)
@@ -83,3 +87,10 @@ Once you finish with **The HTML body**, you should have a `html` file with sever
 ### Media queries
 * [Learn Media Queries](http://css-tricks.com/css-media-queries/) and Adapt the given layout to be ready for mobile screens using the following design as guide [example](http://mediaqueri.es/ity/).
 
+### Preprocessors
+
+Preprocessors compile the CSS code we write in a processed language to the pure CSS syntax we’re all used to. 
+
+* [Introduction to preprocessors](http://cdharrison.com/presentations/awdgcss/#/)
+* [Getting started with LESS](http://www.hongkiat.com/blog/less-basic/)
+* [LESS](http://lesscss.org/)
