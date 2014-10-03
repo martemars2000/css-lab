@@ -17,23 +17,16 @@ Also you can learn and do exercise in [codecademy](http://www.codecademy.com/tra
 Once you finish with **The HTML body**, you should have a `html` file with several examples applying the different tags you were playing in the tutorial (do not include any JS o CSS code).
 
 Now we will start with the creation of our web page.
-Based on this [Design](images/desktop.png "Design") and the experience on the practices that you did before:
 
-1. Create a basic `index.html` with the corresponding tags. (use the new html5 tags)
+1. Add a basic page structure using HTML as it’s described in the following picture:
+![alt text](images/html5-structure.png "HTML5 structure")
+2. Inside the header add an image logo. You can use this [placeholder](http://placehold.it/400x100&text=Logo)
+3. Inside the nav add 4 links
+4. Inside the section add an article.
 
-  Notes:
-  - You can create your own logo or use this [Logo](images/logo.jpg "Logo")
-  - For the rest of the image, you can create new images in [placehold](http://placehold.it/) or use these:
-  - 1000x400&: http://placehold.it/1000x400&text=[img
-  - 400x300: http://placehold.it/400x300&text=[img]
+Notes: You can pick the content from here: http://foundation.zurb.com/templates/feed.html
 
 # CSS
-
-
-#####Practice:#####
-
-* Create an empty style.css file and link it to the index.html using [<link> tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link#Examples).
-* Include [normalize.css](http://necolas.github.io/normalize.css/) before your style.css to fix cross-browser problems.
 
 ## Rules
   
@@ -50,27 +43,35 @@ Based on this [Design](images/desktop.png "Design") and the experience on the pr
 * [Bookmark a reference of CSS Vocabulary](http://pumpula.net/p/apps/css-vocabulary/)
 
 #####Practice:#####
-  * Add background to the sections and the links on the nav.
+
+  * Create an empty style.css file and link it to the index.html using [<link> tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link#Examples).
+  * Include [normalize.css](http://necolas.github.io/normalize.css/) before your style.css to fix cross-browser problems.
+  * Add background to the header, footer, aside and nav.
   * Add a global font definition (at html element) with a value of 14px, using a font-family you like.
-  * Make the page center.
+  * Make the header and footer text centered.
     
 ### Specificity
 ![alt text](images/specifishity.gif "Specificity")
 [Learn about CSS Specificity (basically how the rules override others)](http://www.w3.org/TR/CSS21/cascade.html#specificity)
 
 * [Experiment specificity right now using CSS3 selectors](http://specificity.keegan.st/)
+* 
+#####Practice:#####
+
 * Now add classes to the different HTML tags with the following names:
     * To &lt;header&gt;  add class .header
     * To &lt;footer&gt;  add class .footer
     * To &lt;section&gt;  add class .content
     * To &lt;nav&gt;  add class  .navigation
+    * To &lt;aside&gt;  add class  .sidebar
 * Using the new added classes figure out how to override:
     * .header must define a font-size: 46px;
     * .footer must define a font-size: 10px;
     * .content must define a font-size: 14px;
     * .navigation must define a font-size: 12px;
-* When the mouse hover on the nav links, the background must be #BD8A00
-* The first paragraph of each article or section (depends how you made it) must have padding-top:10px; 
+    * .sidebar must define a font-size: 10px;
+* If the class attribute finish with **r (example header, footer)**, the background must be magenta.
+* If the class attribute contain an **a (example nav)** but do NOT finish with r, the background must be blue.
 * How could you add weight to the global font definition to override all the overrides provided by point c?
 * Imagine you have something like class=”oh-no-inline-styles” style=”background:red” and you should change the background to green but without changing the inline style, How could you accomplish this?
 
