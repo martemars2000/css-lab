@@ -16,6 +16,7 @@ Recommendations:
 Once you finish with **The HTML body**, you should have a `html` file with several examples applying the different tags you were playing in the tutorial (do not include any JS o CSS code).
 
 Finally [validate your file](http://validator.w3.org/)
+
 # CSS
 
 * Create a basic [index.html](https://raw.githubusercontent.com/h5bp/html5-boilerplate/master/index.html) file (example provided).
@@ -87,6 +88,7 @@ Finally [validate your file](http://validator.w3.org/)
 
 ### Media queries
 * [Learn Media Queries](http://css-tricks.com/css-media-queries/) and Adapt the given layout to be ready for mobile screens using the following design as guide [example](http://mediaqueri.es/ity/).
+* [Media Query Bookmarklet](http://seesparkbox.com/foundry/media_query_bookmarklet)
 
 ### Preprocessors
 
