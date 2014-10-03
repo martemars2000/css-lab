@@ -52,6 +52,7 @@ Notes: You can pick the content from here: http://foundation.zurb.com/templates/
     
 ### Specificity
 ![alt text](images/specifishity.gif "Specificity")
+
 [Learn about CSS Specificity (basically how the rules override others)](http://www.w3.org/TR/CSS21/cascade.html#specificity)
 
 * [Experiment specificity right now using CSS3 selectors](http://specificity.keegan.st/)
@@ -76,6 +77,10 @@ Notes: You can pick the content from here: http://foundation.zurb.com/templates/
 * Imagine you have something like class=”oh-no-inline-styles” style=”background:red” and you should change the background to green but without changing the inline style, How could you accomplish this?
 
 ### The Box Model
+
+![alt text](images/box-model.png "Box Model")
+![alt text](images/box-sizing.png "Box sizing")
+
 * [Learn about the Box Model (how the browser calculate boxes size)](http://www.w3.org/TR/CSS21/box.html)
   * [Play with it here changing width / margin / padding / box-sizing](http://dabblet.com/gist/2986528)
 * [How to alter the box model calculations](http://quirksmode.org/css/user-interface/boxsizing.html)
