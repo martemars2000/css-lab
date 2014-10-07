@@ -76,6 +76,21 @@ Notes: You can pick the content from here: http://foundation.zurb.com/templates/
 * How could you add weight to the global font definition to override all the overrides provided by point c?
 * Imagine you have something like class=”oh-no-inline-styles” style=”background:red” and you should change the background to green but without changing the inline style, How could you accomplish this?
 
+### CSS Units
+
+The `<length>` CSS data type denotes distance measurements.  It is a <number> immediately followed by a length unit (px, em, pc, in, mm, …)
+
+Many CSS properties take <length> values, such as width, margin,  padding, font-size, border-width, text-shadow, and more.
+
+For some properties, using negative lengths is a syntax error, but for some properties, negative lengths are allowed
+
+#####Reading:#####
+* [CSS Concepts Common Units of Measuremen - Video](http://www.dailymotion.com/video/x242ej5_2-0-css-fundamentals-common-css-concepts-common-units-of-measurement_lifestyle)
+* [CSS3 rem units - Video](http://www.sitepoint.com/css3-rem-units/)
+* [Which CSS Measurements To Use When](http://demosthenes.info/blog/775/Which-CSS-Measurements-To-Use-When)
+* 
+
+
 ### The Box Model
 
 ![alt text](images/box-model.png "Box Model")
