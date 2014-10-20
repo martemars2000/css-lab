@@ -85,10 +85,10 @@ Many CSS properties take <length> values, such as width, margin,  padding, font-
 For some properties, using negative lengths is a syntax error, but for some properties, negative lengths are allowed.
 
 #####Reading:#####
-•	[CSS Concepts Common Units of Measurement - Video] (http://www.dailymotion.com/video/x242ej5_2-0-css-fundamentals-common-css-concepts-common-units-of-measurement_lifestyle)
-•	[CSS3 rem units - Video](http://www.sitepoint.com/css3-rem-units/)
-•	[Which CSS Measurements To Use When](http://demosthenes.info/blog/775/Which-CSS-Measurements-To-Use-When)
-•	[Learning to love the boring bits of CSS] (http://alistapart.com/article/love-the-boring-bits-of-css)
+* [CSS Concepts Common Units of Measurement - Video] (http://www.dailymotion.com/video/x242ej5_2-0-css-fundamentals-common-css-concepts-common-units-of-measurement_lifestyle)
+* [CSS3 rem units - Video](http://www.sitepoint.com/css3-rem-units/)
+* [Which CSS Measurements To Use When](http://demosthenes.info/blog/775/Which-CSS-Measurements-To-Use-When)
+* [Learning to love the boring bits of CSS] (http://alistapart.com/article/love-the-boring-bits-of-css)
 
 ### CSS Layout
 
