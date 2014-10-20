@@ -105,7 +105,7 @@ For some properties, using negative lengths is a syntax error, but for some prop
 * [Extra about box-sizing](http://adamschwartz.co/magic-of-css/chapters/1-the-box/)
   * Use the playground provided above to change *box-sizing* and see the changes.
 
-####Practice:####
+#####Practice:#####
 * Using your own layout system, implement the following page (only desktop).
   ![alt text](images/example-layout.png)
   * When the user **:hover** the right side black box (observe at middle right of the screen shot) it must show a “hello world” message and go back when move the mouse out. To accomplish this [Learn about CSS position](http://learnlayout.com/position.html). 
@@ -114,7 +114,7 @@ For some properties, using negative lengths is a syntax error, but for some prop
 
 [A simple guide to responsive web design] (http://www.adamkaplan.me/grid/)
 
-#####Media Queries
+####Media Queries
 
 [Learn Media Queries](http://css-tricks.com/css-media-queries/) and Adapt the given layout to be ready for mobile screens using the following design as guide [example](http://mediaqueri.es/ity/).
 
