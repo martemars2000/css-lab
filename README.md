@@ -78,20 +78,23 @@ Notes: You can pick the content from here: http://foundation.zurb.com/templates/
 
 ### CSS Units
 
-The `<length>` CSS data type denotes distance measurements.  It is a <number> immediately followed by a length unit (px, em, pc, in, mm, …)
+The `<length>` CSS data type denotes distance measurements.  It is a <number> immediately followed by a length unit (px, em, pc, in, mm, …).
 
 Many CSS properties take <length> values, such as width, margin,  padding, font-size, border-width, text-shadow, and more.
 
-For some properties, using negative lengths is a syntax error, but for some properties, negative lengths are allowed
+For some properties, using negative lengths is a syntax error, but for some properties, negative lengths are allowed.
 
 #####Reading:#####
-* [CSS Concepts Common Units of Measuremen - Video](http://www.dailymotion.com/video/x242ej5_2-0-css-fundamentals-common-css-concepts-common-units-of-measurement_lifestyle)
-* [CSS3 rem units - Video](http://www.sitepoint.com/css3-rem-units/)
-* [Which CSS Measurements To Use When](http://demosthenes.info/blog/775/Which-CSS-Measurements-To-Use-When)
-* 
+•	[CSS Concepts Common Units of Measurement - Video] (http://www.dailymotion.com/video/x242ej5_2-0-css-fundamentals-common-css-concepts-common-units-of-measurement_lifestyle)
+•	[CSS3 rem units - Video](http://www.sitepoint.com/css3-rem-units/)
+•	[Which CSS Measurements To Use When](http://demosthenes.info/blog/775/Which-CSS-Measurements-To-Use-When)
+•	[Learning to love the boring bits of CSS] (http://alistapart.com/article/love-the-boring-bits-of-css)
 
+### CSS Layout
 
-### The Box Model
+[Learn CSS fundamentals that are used in any website's layout] (http://learnlayout.com/)
+
+#### The Box Model
 
 ![alt text](images/box-model.png "Box Model")
 ![alt text](images/box-sizing.png "Box sizing")
@@ -102,24 +105,24 @@ For some properties, using negative lengths is a syntax error, but for some prop
 * [Extra about box-sizing](http://adamschwartz.co/magic-of-css/chapters/1-the-box/)
   * Use the playground provided above to change *box-sizing* and see the changes.
 
-### Layout
+#### Other properties here?
 
-#### The display property
-* [Learn how to handle the display property (block, inline, inline-block, none)](http://learnlayout.com/display.html)
-* [An extra documentation (only read display property for now)](http://adamschwartz.co/magic-of-css/chapters/2-layout/)
-  * Now modify your CSS to reach something similar to the initial layout asked. You will need to be smart with the use of *display: inline-block*.
-  
-#### Layout systems  
-* [Learn how to create your own layout system](http://www.adamkaplan.me/grid/)
-  * [Checkout floats and fully understand them](http://alistapart.com/article/css-floats-101)
-  * [Review your knowledge about CSS relative units](http://alistapart.com/article/love-the-boring-bits-of-css)
+Practice: 
 * Using your own layout system, implement the following page (only desktop).
   ![alt text](images/example-layout.png)
-  * When the user **:hover** the right side black box (observe at middle right of the screen shot) it must show a “hello world” message and go back when move the mouse out. To accomplish this [Learn about CSS position](http://learnlayout.com/position.html).
+  * When the user **:hover** the right side black box (observe at middle right of the screen shot) it must show a “hello world” message and go back when move the mouse out. To accomplish this [Learn about CSS position](http://learnlayout.com/position.html). 
 
-### Media queries
-* [Learn Media Queries](http://css-tricks.com/css-media-queries/) and Adapt the given layout to be ready for mobile screens using the following design as guide [example](http://mediaqueri.es/ity/).
-* [Media Query Bookmarklet](http://seesparkbox.com/foundry/media_query_bookmarklet)
+### Responsive Web Design
+
+[A simple guide to responsive web design] (http://www.adamkaplan.me/grid/)
+
+#### Media Queries
+
+[Learn Media Queries](http://css-tricks.com/css-media-queries/) and Adapt the given layout to be ready for mobile screens using the following design as guide [example](http://mediaqueri.es/ity/).
+
+See more:
+* [A collection of inspirational websites using media queries and responsive web design] (http://mediaqueri.es/)
+* [Media Queries Bookmarklet] (http://seesparkbox.com/foundry/media_query_bookmarklet)
 
 ### Preprocessors
 
