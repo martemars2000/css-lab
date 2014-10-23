@@ -106,9 +106,7 @@ For some properties, using negative lengths is a syntax error, but for some prop
   * Use the playground provided above to change *box-sizing* and see the changes.
 
 #####Practice:#####
-* Using your own layout system, implement the following page (only desktop).
-  ![alt text](images/example-layout.png)
-  * When the user **:hover** the right side black box (observe at middle right of the screen shot) it must show a “hello world” message and go back when move the mouse out. To accomplish this [Learn about CSS position](http://learnlayout.com/position.html). 
+* Modify your own webpage so that it looks like this one: http://foundation.zurb.com/templates/feed.html (only desktop)
 
 ### Responsive Web Design
 
@@ -116,16 +114,11 @@ For some properties, using negative lengths is a syntax error, but for some prop
 
 ####Media Queries
 
-[Learn Media Queries](http://css-tricks.com/css-media-queries/) and Adapt the given layout to be ready for mobile screens using the following design as guide [example](http://mediaqueri.es/ity/).
+[Learn Media Queries](http://css-tricks.com/css-media-queries/)
 
 #####See more:#####
 * [A collection of inspirational websites using media queries and responsive web design] (http://mediaqueri.es/)
 * [Media Queries Bookmarklet] (http://seesparkbox.com/foundry/media_query_bookmarklet)
 
-### Preprocessors
-
-Preprocessors compile the CSS code we write in a processed language to the pure CSS syntax we’re all used to. 
-
-* [Introduction to preprocessors](http://cdharrison.com/presentations/awdgcss/#/)
-* [Getting started with LESS](http://www.hongkiat.com/blog/less-basic/)
-* [LESS](http://lesscss.org/)
+#####Practice:#####
+* Adapt your own webpage to be ready for different devices.
