@@ -2,45 +2,74 @@
 
 # HTML
 
-#####Reading:#####
-All the basics about the markup language are available at [WebPlatform](http://docs.webplatform.org/wiki/html/tutorials). Please follow the different tutorials and you will be learning from basic tag semantics (span, p, div) to others more specific as (section, article, nav, etc).
+#####Topics:#####
+* HTML tag syntax
+* Basic HTML tags
+* New HTML 5 tags
 
-Also you can learn and do exercise in [codecademy](http://www.codecademy.com/tracks/web).
+#####Materials#####
 
-#####Practice:#####
+* [WebPlatform](http://docs.webplatform.org/wiki/html/tutorials)
+* [Slides Intro](nuriasuarez.github.io/htmlcss-topic0/html-intro/slides.html)
+* [HTML Validator](http://validator.w3.org/)
 
-1. **The Basics of HTML:** create a basic `.html` file and experiment a little with your browser modifying and reloading to see the changes reflected.
-2. **Doctypes and Validations:** Keep focus on validate what you have written (DOCTYPES defines how you should write your content). [Validate your file](http://validator.w3.org/)
-3. **The HTML head:** You will see how to link your html file with other assets as `js` and `css`, for now keep focus on markup semantics and make some examples changing your already created file.
-4. **The HTML body:** Keep focus on markup semantics and understand default behaviors provided by the different types of inputs (`type=text`, `type=number`, `type=date`, etc). Do not care about browsers compatibility, just use lastest chrome or firefox to experiment.
+#####More Documentation#####
+* [W3Schools.com](http://www.w3schools.com/html/default.asp)
 
-Once you finish with **The HTML body**, you should have a `html` file with several examples applying the different tags you were playing in the tutorial (do not include any JS o CSS code).
+#####Exercises#####
+* [Exercise 1](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise1.html)
+* [Exercise 2](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise2.html)
+ 
+#####Optional Exercises#####
+* [Code Academy](http://www.codecademy.com/tracks/web): It is a site that contains interactive courses on how to program
 
-Now we will start with the creation of our web page.
-
-1. Add a basic page structure using HTML as it’s described in the following picture:
-![alt text](images/html5-structure.png "HTML5 structure")
-2. Inside the header add an image logo. You can use this [placeholder](http://placehold.it/400x100&text=Logo)
-3. Inside the nav add 4 links
-4. Inside the section add an article.
-
-Notes: You can pick the content from here: http://foundation.zurb.com/templates/feed.html
 
 # CSS
 
-## Rules
-  
-### Selectors and properties 
+#####Topics:#####
+* Introduction to selectors
+* Introduction to Specificity
+* CSS Units
+
+#####Materials#####
+
+### Selectors and properties
 ![alt text](images/anatomy-of-a-css-rule.gif "Anatomy of a CSS rule")
 
-#####Reading:#####
-
 * [Brief of CSS selectors](http://www.sitepoint.com/web-foundations/css-selectors/)
-* [More Css selectors](http://estelle.github.io/selectors/#slide1)
+* [Slides selectors](http://estelle.github.io/selectors/#slide1)
+
+### CSS Units
+* [Video](http://www.sitepoint.com/css3-rem-units/)
+
+### Specificity
+![alt text](images/specifishity.gif "Specificity")
+* [Learn about CSS Specificity (basically how the rules override others)](http://www.w3.org/TR/CSS21/cascade.html#specificity)
+
+
+#####More Documentation#####
+
+### Selectors and properties
 * [CSS3 selectors sheet](http://www.w3.org/TR/css3-selectors/)
 * [Play a little game to consolidate your knowledge](http://flukeout.github.io/)
 * [Bookmark the following list of properties for future reference](http://ref.openweb.io/CSS/)
 * [Bookmark a reference of CSS Vocabulary](http://pumpula.net/p/apps/css-vocabulary/)
+
+### CSS Units
+* [CSS Concepts Common Units of Measurement - Video] (http://www.dailymotion.com/video/x242ej5_2-0-css-fundamentals-common-css-concepts-common-units-of-measurement_lifestyle)
+* [CSS3 rem units - Video](http://www.sitepoint.com/css3-rem-units/)
+* [Which CSS Measurements To Use When](http://demosthenes.info/blog/775/Which-CSS-Measurements-To-Use-When)
+* [Learning to love the boring bits of CSS] (http://alistapart.com/article/love-the-boring-bits-of-css)
+* 
+#####Exercises#####
+* [Selectors Exercise]()
+ 
+#####Optional Exercises#####
+
+### Specificity
+* [Experiment specificity right now using CSS3 selectors](http://specificity.keegan.st/)
+
+
 
 #####Practice:#####
 
