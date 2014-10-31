@@ -2,37 +2,37 @@
 
 # HTML
 
-#####Topics:#####
+####Topics:####
 * HTML tag syntax
 * Basic HTML tags
 * New HTML 5 tags
 
-#####Materials#####
+####Materials####
 
 * [WebPlatform](http://docs.webplatform.org/wiki/html/tutorials)
 * [Slides Intro](nuriasuarez.github.io/htmlcss-topic0/html-intro/slides.html)
 * [HTML Validator](http://validator.w3.org/)
 
-#####More Documentation#####
+####More Documentation####
 * [W3Schools.com](http://www.w3schools.com/html/default.asp)
 
-#####Exercises#####
+####Exercises####
 * [Exercise 1 - Basic HTML](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise1.html)
 * [Exercise 2 - Basic Page](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise2.html)
 * [Exercise 3 - Structure and Form](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise3.html)
  
-#####Optional Exercises#####
+####Optional Exercises####
 * [Code Academy](http://www.codecademy.com/tracks/web): It is a site that contains interactive courses on how to program
 
 
 # CSS
 
-#####Topics:#####
+####Topics:####
 * Introduction to selectors
 * Introduction to Specificity
 * CSS Units
 
-#####Materials#####
+####Materials####
 
 ###### Selectors and properties
 
@@ -46,7 +46,7 @@
 * [Learn about CSS Specificity (basically how the rules override others)](http://www.w3.org/TR/CSS21/cascade.html#specificity)
 
 
-#####More Documentation#####
+####More Documentation####
 
 ###### Selectors and properties
 * [CSS3 selectors sheet](http://www.w3.org/TR/css3-selectors/)
@@ -59,10 +59,10 @@
 * [Which CSS Measurements To Use When](http://demosthenes.info/blog/775/Which-CSS-Measurements-To-Use-When)
 * [Learning to love the boring bits of CSS] (http://alistapart.com/article/love-the-boring-bits-of-css)
 
-#####Exercises#####
+####Exercises####
 * [Selectors Exercise](http://nuriasuarez.github.io/htmlcss-topic0/cssexersice/exercise1.html)
  
-#####Optional Exercises#####
+####Optional Exercises####
 
 ###### Specificity
 * [Experiment specificity right now using CSS3 selectors](http://specificity.keegan.st/)
