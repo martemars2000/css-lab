@@ -17,8 +17,9 @@
 * [W3Schools.com](http://www.w3schools.com/html/default.asp)
 
 #####Exercises#####
-* [Exercise 1](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise1.html)
-* [Exercise 2](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise2.html)
+* [Exercise 1 - Basic HTML](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise1.html)
+* [Exercise 2 - Basic Page](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise2.html)
+* [Exercise 3 - Structure and Form](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise3.html)
  
 #####Optional Exercises#####
 * [Code Academy](http://www.codecademy.com/tracks/web): It is a site that contains interactive courses on how to program
@@ -57,7 +58,6 @@
 
 ###### CSS Units
 * [CSS Concepts Common Units of Measurement - Video] (http://www.dailymotion.com/video/x242ej5_2-0-css-fundamentals-common-css-concepts-common-units-of-measurement_lifestyle)
-* [CSS3 rem units - Video](http://www.sitepoint.com/css3-rem-units/)
 * [Which CSS Measurements To Use When](http://demosthenes.info/blog/775/Which-CSS-Measurements-To-Use-When)
 * [Learning to love the boring bits of CSS] (http://alistapart.com/article/love-the-boring-bits-of-css)
 
@@ -81,14 +81,7 @@
   * Add background to the header, footer, aside and nav.
   * Add a global font definition (at html element) with a value of 14px, using a font-family you like.
   * Make the header and footer text centered.
-    
-### Specificity
-![alt text](images/specifishity.gif "Specificity")
-
-[Learn about CSS Specificity (basically how the rules override others)](http://www.w3.org/TR/CSS21/cascade.html#specificity)
-
-* [Experiment specificity right now using CSS3 selectors](http://specificity.keegan.st/)
-* 
+  * 
 #####Practice:#####
 
 * Now add classes to the different HTML tags with the following names:
@@ -108,19 +101,6 @@
 * How could you add weight to the global font definition to override all the overrides provided by point c?
 * Imagine you have something like class=”oh-no-inline-styles” style=”background:red” and you should change the background to green but without changing the inline style, How could you accomplish this?
 
-### CSS Units
-
-The `<length>` CSS data type denotes distance measurements.  It is a <number> immediately followed by a length unit (px, em, pc, in, mm, …).
-
-Many CSS properties take <length> values, such as width, margin,  padding, font-size, border-width, text-shadow, and more.
-
-For some properties, using negative lengths is a syntax error, but for some properties, negative lengths are allowed.
-
-#####Reading:#####
-* [CSS Concepts Common Units of Measurement - Video] (http://www.dailymotion.com/video/x242ej5_2-0-css-fundamentals-common-css-concepts-common-units-of-measurement_lifestyle)
-* [CSS3 rem units - Video](http://www.sitepoint.com/css3-rem-units/)
-* [Which CSS Measurements To Use When](http://demosthenes.info/blog/775/Which-CSS-Measurements-To-Use-When)
-* [Learning to love the boring bits of CSS] (http://alistapart.com/article/love-the-boring-bits-of-css)
 
 ### CSS Layout
 
