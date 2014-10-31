@@ -16,12 +16,12 @@
 ####More Documentation####
 * [W3Schools.com](http://www.w3schools.com/html/default.asp)
 
-####Exercises####
+####Exercise####
 * [Exercise 1 - Basic HTML](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise1.html)
 * [Exercise 2 - Basic Page](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise2.html)
 * [Exercise 3 - Structure and Form](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise3.html)
  
-####Optional Exercises####
+####Optional Exercise####
 * [Code Academy](http://www.codecademy.com/tracks/web): It is a site that contains interactive courses on how to program
 
 
@@ -59,10 +59,10 @@
 * [Which CSS Measurements To Use When](http://demosthenes.info/blog/775/Which-CSS-Measurements-To-Use-When)
 * [Learning to love the boring bits of CSS] (http://alistapart.com/article/love-the-boring-bits-of-css)
 
-####Exercises####
+####Exercise####
 * [Selectors Exercise](http://nuriasuarez.github.io/htmlcss-topic0/cssexersice/exercise1.html)
  
-####Optional Exercises####
+####Optional Exercise####
 
 ###### Specificity
 * [Experiment specificity right now using CSS3 selectors](http://specificity.keegan.st/)
