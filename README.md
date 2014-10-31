@@ -33,40 +33,43 @@
 
 #####Materials#####
 
-### Selectors and properties
-![alt text](images/anatomy-of-a-css-rule.gif "Anatomy of a CSS rule")
+###### Selectors and properties
 
 * [Brief of CSS selectors](http://www.sitepoint.com/web-foundations/css-selectors/)
 * [Slides selectors](http://estelle.github.io/selectors/#slide1)
 
-### CSS Units
+###### CSS Units
 * [Video](http://www.sitepoint.com/css3-rem-units/)
 
-### Specificity
-![alt text](images/specifishity.gif "Specificity")
+###### Specificity
 * [Learn about CSS Specificity (basically how the rules override others)](http://www.w3.org/TR/CSS21/cascade.html#specificity)
 
 
 #####More Documentation#####
 
-### Selectors and properties
+###### Selectors and properties
 * [CSS3 selectors sheet](http://www.w3.org/TR/css3-selectors/)
 * [Play a little game to consolidate your knowledge](http://flukeout.github.io/)
 * [Bookmark the following list of properties for future reference](http://ref.openweb.io/CSS/)
 * [Bookmark a reference of CSS Vocabulary](http://pumpula.net/p/apps/css-vocabulary/)
 
-### CSS Units
+![alt text](images/anatomy-of-a-css-rule.gif "Anatomy of a CSS rule")
+
+###### CSS Units
 * [CSS Concepts Common Units of Measurement - Video] (http://www.dailymotion.com/video/x242ej5_2-0-css-fundamentals-common-css-concepts-common-units-of-measurement_lifestyle)
 * [CSS3 rem units - Video](http://www.sitepoint.com/css3-rem-units/)
 * [Which CSS Measurements To Use When](http://demosthenes.info/blog/775/Which-CSS-Measurements-To-Use-When)
 * [Learning to love the boring bits of CSS] (http://alistapart.com/article/love-the-boring-bits-of-css)
-* 
+
+###### Specificity
+![alt text](images/specifishity.gif "Specificity")
+
 #####Exercises#####
 * [Selectors Exercise]()
  
 #####Optional Exercises#####
 
-### Specificity
+###### Specificity
 * [Experiment specificity right now using CSS3 selectors](http://specificity.keegan.st/)
 
 
