@@ -54,18 +54,13 @@
 * [Bookmark the following list of properties for future reference](http://ref.openweb.io/CSS/)
 * [Bookmark a reference of CSS Vocabulary](http://pumpula.net/p/apps/css-vocabulary/)
 
-![alt text](images/anatomy-of-a-css-rule.gif "Anatomy of a CSS rule")
-
 ###### CSS Units
 * [CSS Concepts Common Units of Measurement - Video] (http://www.dailymotion.com/video/x242ej5_2-0-css-fundamentals-common-css-concepts-common-units-of-measurement_lifestyle)
 * [Which CSS Measurements To Use When](http://demosthenes.info/blog/775/Which-CSS-Measurements-To-Use-When)
 * [Learning to love the boring bits of CSS] (http://alistapart.com/article/love-the-boring-bits-of-css)
 
-###### Specificity
-![alt text](images/specifishity.gif "Specificity")
-
 #####Exercises#####
-* [Selectors Exercise]()
+* [Selectors Exercise](http://nuriasuarez.github.io/htmlcss-topic0/cssexersice/exercise1.html)
  
 #####Optional Exercises#####
 
@@ -73,15 +68,6 @@
 * [Experiment specificity right now using CSS3 selectors](http://specificity.keegan.st/)
 
 
-
-#####Practice:#####
-
-  * Create an empty style.css file and link it to the index.html using [<link> tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link#Examples).
-  * Include [normalize.css](http://necolas.github.io/normalize.css/) before your style.css to fix cross-browser problems.
-  * Add background to the header, footer, aside and nav.
-  * Add a global font definition (at html element) with a value of 14px, using a font-family you like.
-  * Make the header and footer text centered.
-  * 
 #####Practice:#####
 
 * Now add classes to the different HTML tags with the following names:
