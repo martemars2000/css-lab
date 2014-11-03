@@ -36,14 +36,16 @@
 
 ###### Selectors and properties
 
+* [Introduction to selectors Slides](http://nuriasuarez.github.io/htmlcss-topic0/css/css-selectors.html#slide1)
 * [Brief of CSS selectors](http://www.sitepoint.com/web-foundations/css-selectors/)
-* [Slides selectors](http://estelle.github.io/selectors/#slide1)
+* [Slides selectors - complete](http://estelle.github.io/selectors/#slide1)
+
+###### Specificity
+* [Slides specificity] (http://estelle.github.io/CSS-Workshop/part_02_specificity.html#slide1)
+* [Learn about CSS Specificity (basically how the rules override others)](http://www.w3.org/TR/CSS21/cascade.html#specificity)
 
 ###### CSS Units
 * [Video](http://www.sitepoint.com/css3-rem-units/)
-
-###### Specificity
-* [Learn about CSS Specificity (basically how the rules override others)](http://www.w3.org/TR/CSS21/cascade.html#specificity)
 
 
 ####More Documentation####
@@ -60,32 +62,15 @@
 * [Learning to love the boring bits of CSS] (http://alistapart.com/article/love-the-boring-bits-of-css)
 
 ####Exercise####
-* [Selectors Exercise](http://nuriasuarez.github.io/htmlcss-topic0/cssexersice/exercise1.html)
+* [Selectors Exercise](http://nuriasuarez.github.io/htmlcss-topic0/css/exercise/exercise1.html)
+* [Properties Exercise](http://nuriasuarez.github.io/htmlcss-topic0/css/exercise/exercise2.html)
+* How could you add weight to the global font definition to override all the overrides provided by point c?
+* Imagine you have something like class=”oh-no-inline-styles” style=”background:red” and you should change the background to green but without changing the inline style, How could you accomplish this?
  
 ####Optional Exercise####
 
 ###### Specificity
 * [Experiment specificity right now using CSS3 selectors](http://specificity.keegan.st/)
-
-
-#####Practice:#####
-
-* Now add classes to the different HTML tags with the following names:
-    * To &lt;header&gt;  add class .header
-    * To &lt;footer&gt;  add class .footer
-    * To &lt;section&gt;  add class .content
-    * To &lt;nav&gt;  add class  .navigation
-    * To &lt;aside&gt;  add class  .sidebar
-* Using the new added classes figure out how to override:
-    * .header must define a font-size: 46px;
-    * .footer must define a font-size: 10px;
-    * .content must define a font-size: 14px;
-    * .navigation must define a font-size: 12px;
-    * .sidebar must define a font-size: 10px;
-* If the class attribute finish with **r (example header, footer)**, the background must be magenta.
-* If the class attribute contain an **a (example nav)** but do NOT finish with r, the background must be blue.
-* How could you add weight to the global font definition to override all the overrides provided by point c?
-* Imagine you have something like class=”oh-no-inline-styles” style=”background:red” and you should change the background to green but without changing the inline style, How could you accomplish this?
 
 
 ### CSS Layout
