@@ -166,5 +166,8 @@ Through the rest of this section you will create a basic HTML document. After fi
 * [A simple guide to responsive web design] (http://www.adamkaplan.me/grid/)
 * [Media queries](http://estelle.github.io/html5training/css_media.html#slide1)
 
+####More Documentation####
+* [Responsive Web Design](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/)
+
 ####Exercise####
 * Make the page created before to be responsive. 
