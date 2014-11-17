@@ -75,33 +75,37 @@
 
 ### CSS Layout
 
-[Learn CSS fundamentals that are used in any website's layout] (http://learnlayout.com/)
+#### Topics
+* Block elements
+* Box Model
+* Floats
+* Positioning
 
-#### The Box Model
+####Materials####
+* [Grouping elements](https://nuriasuarez.github.io/htmlcss-topic0/css/css-grouping.html#slide1)
+* [Box Model](https://nuriasuarez.github.io/htmlcss-topic0/css/css-boxmodel.html#slide1)
+* [Floats](https://nuriasuarez.github.io/htmlcss-topic0/css/css-floats.html#slide1)
+* [Positioning](https://nuriasuarez.github.io/htmlcss-topic0/css/css-positioning.html#slide1)
 
-![alt text](images/box-model.png "Box Model")
-![alt text](images/box-sizing.png "Box sizing")
-
+####More Documentation####
+* [Learn CSS fundamentals that are used in any website's layout] (http://learnlayout.com/)
 * [Learn about the Box Model (how the browser calculate boxes size)](http://www.w3.org/TR/CSS21/box.html)
   * [Play with it here changing width / margin / padding / box-sizing](http://dabblet.com/gist/2986528)
 * [How to alter the box model calculations](http://quirksmode.org/css/user-interface/boxsizing.html)
 * [Extra about box-sizing](http://adamschwartz.co/magic-of-css/chapters/1-the-box/)
   * Use the playground provided above to change *box-sizing* and see the changes.
 
-#####Practice:#####
+#####Exercise#####
 * Modify your own webpage so that it looks like this one: http://foundation.zurb.com/templates/feed.html (only desktop)
 
 ### Responsive Web Design
 
-[A simple guide to responsive web design] (http://www.adamkaplan.me/grid/)
+#### Topics
+* RWD concepts
+* Media queries
 
-####Media Queries
+####Materials####
+* [A simple guide to responsive web design] (http://www.adamkaplan.me/grid/)
+* [Media queries](http://estelle.github.io/html5training/css_media.html#slide1)
 
-[Learn Media Queries](http://css-tricks.com/css-media-queries/)
-
-#####See more:#####
-* [A collection of inspirational websites using media queries and responsive web design] (http://mediaqueri.es/)
-* [Media Queries Bookmarklet] (http://seesparkbox.com/foundry/media_query_bookmarklet)
-
-#####Practice:#####
-* Adapt your own webpage to be ready for different devices.
+#####Exercise#####
