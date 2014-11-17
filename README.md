@@ -73,9 +73,9 @@
 * [Experiment specificity right now using CSS3 selectors](http://specificity.keegan.st/)
 
 
-### CSS Layout
+## CSS Layout
 
-#### Topics
+####Topics:####
 * Block elements
 * Box Model
 * Floats
@@ -95,12 +95,12 @@
 * [Extra about box-sizing](http://adamschwartz.co/magic-of-css/chapters/1-the-box/)
   * Use the playground provided above to change *box-sizing* and see the changes.
 
-#####Exercise#####
+####Exercise####
 * Modify your own webpage so that it looks like this one: http://foundation.zurb.com/templates/feed.html (only desktop)
 
-### Responsive Web Design
+# Responsive Web Design
 
-#### Topics
+####Topics:####
 * RWD concepts
 * Media queries
 
@@ -108,4 +108,4 @@
 * [A simple guide to responsive web design] (http://www.adamkaplan.me/grid/)
 * [Media queries](http://estelle.github.io/html5training/css_media.html#slide1)
 
-#####Exercise#####
+####Exercise####
