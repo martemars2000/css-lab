@@ -14,43 +14,43 @@ Through the rest of this section you will create a basic HTML document. After fi
 
 ### 1.1. Basic HTML tags
 
-####Materials####
+###### Materials
 
 * [WebPlatform](http://docs.webplatform.org/wiki/html/tutorials)
 * [Slides Intro](nuriasuarez.github.io/htmlcss-topic0/html-intro/slides.html)
 
-####Exercise####
+###### Exercise
 * [Exercise 1 - Basic HTML](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise1.html)
 * [Exercise 2 - Basic Page](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise2.html)
 * [Exercise 3 - Structure and Form](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise3.html)
 
-####Optional Exercise####
+###### Optional Exercise
 * [Code Academy](http://www.codecademy.com/tracks/web): It is a site that contains interactive courses on how to program
 
 ### 1.2. HTML5 Semantics & Markup
 
-####Materials####
+###### Materials
 
 * [http://diveintohtml5.info/](http://diveintohtml5.info/)
 * [Slides HTML 5](nuriasuarez.github.io/htmlcss-topic0/html5/slides.html)
 
-####Exercise####
+###### Exercise
 * [Exercise 1 - HTML5](http://nuriasuarez.github.io/htmlcss-topic0/html5/exercise/exercise1.html)
 
-####More Documentation####
+###### More Documentation
 * [Create the page structure](https://developers.google.com/web/fundamentals/getting-started/your-first-multi-screen-site/content)
 
 ### 1.3. Doctypes & Metatags:
 
-####Materials####
+###### Materials
 * [HTML Validation](https://docs.webplatform.org/wiki/guides/html_validation)
 * [WHAT DOES IT ALL MEAN?](http://diveintohtml5.info/semantics.html)
 * [Slides Doctype](nuriasuarez.github.io/htmlcss-topic0/html-doctype-meta/slides.html)
 
-####Exercise####
+###### Exercise
 * [Exercise 1 - Doctype](http://nuriasuarez.github.io/htmlcss-topic0/html-doctype-meta/exercise/exercise1.html)
 
-####More Documentation####
+###### More Documentation
 * [W3C Validator](http://validator.w3.org/)
 * [The HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
 
@@ -67,7 +67,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 	* Install [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en), and perform an audit on your markup.
 
 
-###More Documentation###
+###Extra ocumentation###
 * [Lear about performance](https://developers.google.com/web/fundamentals/performance/)
 
 
