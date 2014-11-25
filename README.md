@@ -89,6 +89,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 
 
 ### 2.2 Specificity
+###### Materials
 * [Slides specificity] (http://estelle.github.io/CSS-Workshop/part_02_specificity.html#slide1)
 * [Learn about CSS Specificity (basically how the rules override others)](http://www.w3.org/TR/CSS21/cascade.html#specificity)
 
@@ -108,30 +109,42 @@ Through the rest of this section you will create a basic HTML document. After fi
 * [Which CSS Measurements To Use When](http://demosthenes.info/blog/775/Which-CSS-Measurements-To-Use-When)
 * [Learning to love the boring bits of CSS] (http://alistapart.com/article/love-the-boring-bits-of-css)
 
-## CSS Layout
+##3. CSS Layout
 
-####Topics:####
-* Block elements
-* Box Model
-* Floats
-* Positioning
+### 3.1. Block elements
 
-####Materials####
-* [Grouping elements](https://nuriasuarez.github.io/htmlcss-topic0/css/css-grouping.html#slide1)
-* [Box Model](https://nuriasuarez.github.io/htmlcss-topic0/css/css-boxmodel.html#slide1)
-* [Floats](https://nuriasuarez.github.io/htmlcss-topic0/css/css-floats.html#slide1)
-* [Positioning](https://nuriasuarez.github.io/htmlcss-topic0/css/css-positioning.html#slide1)
-
-####More Documentation####
+###### Materials
+* [Grouping elements Slides](https://nuriasuarez.github.io/htmlcss-topic0/css/css-grouping.html#slide1)
 * [Learn CSS fundamentals that are used in any website's layout] (http://learnlayout.com/)
+
+###### Exercise
+
+### 3.2. Box Model
+
+###### Materials
+* [Box Model Slides](https://nuriasuarez.github.io/htmlcss-topic0/css/css-boxmodel.html#slide1)
 * [Learn about the Box Model (how the browser calculate boxes size)](http://www.w3.org/TR/CSS21/box.html)
   * [Play with it here changing width / margin / padding / box-sizing](http://dabblet.com/gist/2986528)
 * [How to alter the box model calculations](http://quirksmode.org/css/user-interface/boxsizing.html)
 * [Extra about box-sizing](http://adamschwartz.co/magic-of-css/chapters/1-the-box/)
   * Use the playground provided above to change *box-sizing* and see the changes.
 
-####Exercise####
-* Modify your own webpage so that it looks like this one: http://foundation.zurb.com/templates/feed.html (only desktop)
+###### Exercise
+
+### 3.3. Floats
+
+###### Materials
+* [Floats](https://nuriasuarez.github.io/htmlcss-topic0/css/css-floats.html#slide1)
+
+###### Exercise
+
+### 3.4. Positioning
+
+###### Materials
+* [Positioning](https://nuriasuarez.github.io/htmlcss-topic0/css/css-positioning.html#slide1)
+
+###### Exercise
+
 
 # Responsive Web Design
 
