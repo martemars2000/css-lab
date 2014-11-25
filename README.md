@@ -119,6 +119,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 
 ###### Exercise
 
+
 ### 3.2. Box Model
 
 ###### Materials
@@ -130,6 +131,7 @@ Through the rest of this section you will create a basic HTML document. After fi
   * Use the playground provided above to change *box-sizing* and see the changes.
 
 ###### Exercise
+[Box Model Exercise](http://nuriasuarez.github.io/htmlcss-topic0/css/exercise/exercise3-boxmodel.html)
 
 ### 3.3. Floats
 
