@@ -15,7 +15,6 @@ Through the rest of this section you will create a basic HTML document. After fi
 ### 1.1. Basic HTML tags
 
 ###### Materials
-
 * [WebPlatform](http://docs.webplatform.org/wiki/html/tutorials)
 * [Slides Intro](nuriasuarez.github.io/htmlcss-topic0/html-intro/slides.html)
 
@@ -30,7 +29,6 @@ Through the rest of this section you will create a basic HTML document. After fi
 ### 1.2. HTML5 Semantics & Markup
 
 ###### Materials
-
 * [http://diveintohtml5.info/](http://diveintohtml5.info/)
 * [Slides HTML 5](nuriasuarez.github.io/htmlcss-topic0/html5/slides.html)
 
@@ -71,53 +69,44 @@ Through the rest of this section you will create a basic HTML document. After fi
 * [Lear about performance](https://developers.google.com/web/fundamentals/performance/)
 
 
-# CSS
+#2. CSS
 
-####Topics:####
-* Introduction to selectors
-* Introduction to Specificity
-* CSS Units
+### 2.1 Selectors and properties
 
-####Materials####
-
-###### Selectors and properties
-
+###### Materials
 * [Introduction to selectors Slides](http://nuriasuarez.github.io/htmlcss-topic0/css/css-selectors.html#slide1)
 * [Brief of CSS selectors](http://www.sitepoint.com/web-foundations/css-selectors/)
 * [Slides selectors - complete](http://estelle.github.io/selectors/#slide1)
 
-###### Specificity
-* [Slides specificity] (http://estelle.github.io/CSS-Workshop/part_02_specificity.html#slide1)
-* [Learn about CSS Specificity (basically how the rules override others)](http://www.w3.org/TR/CSS21/cascade.html#specificity)
+###### Exercise
+* [Selectors Exercise](http://nuriasuarez.github.io/htmlcss-topic0/css/exercise/exercise1.html)
 
-###### CSS Units
-* [Video](http://www.sitepoint.com/css3-rem-units/)
-
-
-####More Documentation####
-
-###### Selectors and properties
+###### More Documentation
 * [CSS3 selectors sheet](http://www.w3.org/TR/css3-selectors/)
 * [Play a little game to consolidate your knowledge](http://flukeout.github.io/)
 * [Bookmark the following list of properties for future reference](http://ref.openweb.io/CSS/)
 * [Bookmark a reference of CSS Vocabulary](http://pumpula.net/p/apps/css-vocabulary/)
 
-###### CSS Units
+
+### 2.2 Specificity
+* [Slides specificity] (http://estelle.github.io/CSS-Workshop/part_02_specificity.html#slide1)
+* [Learn about CSS Specificity (basically how the rules override others)](http://www.w3.org/TR/CSS21/cascade.html#specificity)
+
+###### Exercise
+* [Exercise](http://nuriasuarez.github.io/htmlcss-topic0/css/exercise/exercise2.html)
+* How could you add weight to the global font definition to override all the overrides provided by point c?
+* Imagine you have something like class=”oh-no-inline-styles” style=”background:red” and you should change the background to green but without changing the inline style, How could you accomplish this?
+
+###### Optional Exercise
+* [Experiment specificity right now using CSS3 selectors](http://specificity.keegan.st/)
+
+
+### 2.3 CSS Units
+###### Documentation
+* [Video](http://www.sitepoint.com/css3-rem-units/)
 * [CSS Concepts Common Units of Measurement - Video] (http://www.dailymotion.com/video/x242ej5_2-0-css-fundamentals-common-css-concepts-common-units-of-measurement_lifestyle)
 * [Which CSS Measurements To Use When](http://demosthenes.info/blog/775/Which-CSS-Measurements-To-Use-When)
 * [Learning to love the boring bits of CSS] (http://alistapart.com/article/love-the-boring-bits-of-css)
-
-####Exercise####
-* [Selectors Exercise](http://nuriasuarez.github.io/htmlcss-topic0/css/exercise/exercise1.html)
-* [Properties Exercise](http://nuriasuarez.github.io/htmlcss-topic0/css/exercise/exercise2.html)
-* How could you add weight to the global font definition to override all the overrides provided by point c?
-* Imagine you have something like class=”oh-no-inline-styles” style=”background:red” and you should change the background to green but without changing the inline style, How could you accomplish this?
- 
-####Optional Exercise####
-
-###### Specificity
-* [Experiment specificity right now using CSS3 selectors](http://specificity.keegan.st/)
-
 
 ## CSS Layout
 
