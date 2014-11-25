@@ -55,16 +55,16 @@ Through the rest of this section you will create a basic HTML document. After fi
 * [The HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
 
 ### 1.4. Accessibility
-	* Understand **why** accessibility is important:
-		* [W3C Accessibility](http://www.w3.org/standards/webdesign/accessibility)
-	* Understand **how** to make web document accessible:
-		* [508 checklist](http://webaim.org/standards/508/checklist)
-		* [BBC Accessibility Guideline](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/html/).
-		* [Leverage HTML5 features to improve accessibility](http://www.w3.org/Talks/2014/0317-HTML5-A11Y/)
-		* [Accessibility: The Missing Ingredient](http://alistapart.com/article/accessibility-the-missing-ingredient)
-	* **Validate** your markup to see if it is accessible:
-		* Install a screen reader like [ChromeVox](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en), and test your HTML document.
-		* Install [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en), and perform an audit on your markup.
+* Understand **why** accessibility is important:
+	* [W3C Accessibility](http://www.w3.org/standards/webdesign/accessibility)
+* Understand **how** to make web document accessible:
+	* [508 checklist](http://webaim.org/standards/508/checklist)
+	* [BBC Accessibility Guideline](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/html/).
+	* [Leverage HTML5 features to improve accessibility](http://www.w3.org/Talks/2014/0317-HTML5-A11Y/)
+	* [Accessibility: The Missing Ingredient](http://alistapart.com/article/accessibility-the-missing-ingredient)
+* **Validate** your markup to see if it is accessible:
+	* Install a screen reader like [ChromeVox](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en), and test your HTML document.
+	* Install [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en), and perform an audit on your markup.
 
 
 ###More Documentation###
