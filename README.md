@@ -1,28 +1,74 @@
 # Basics of HTML and CSS
 
-# HTML
+##1. HTML
 
-####Topics:####
-* HTML tag syntax
-* Basic HTML tags
-* New HTML 5 tags
+For an introduction to HTML please see [WebPlatform](http://docs.webplatform.org/wiki/html/tutorials).
+
+W3C's HTML5 specification can be found here: [http://www.w3.org/TR/html5/](http://www.w3.org/TR/html5/)
+
+Through the rest of this section you will create a basic HTML document. After finishing this section you will: 
+
+* be able to create HTML documents that displays text, images, tables, lists
+* understand how to structure HTML documents, and what the basic building blocks are
+* understand best practices to write valid, accessible, and semantic HTML markup.
+
+### 1.1 Basic HTML tags
 
 ####Materials####
 
 * [WebPlatform](http://docs.webplatform.org/wiki/html/tutorials)
 * [Slides Intro](nuriasuarez.github.io/htmlcss-topic0/html-intro/slides.html)
-* [HTML Validator](http://validator.w3.org/)
-
-####More Documentation####
-* [W3Schools.com](http://www.w3schools.com/html/default.asp)
 
 ####Exercise####
 * [Exercise 1 - Basic HTML](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise1.html)
 * [Exercise 2 - Basic Page](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise2.html)
 * [Exercise 3 - Structure and Form](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise3.html)
- 
+
 ####Optional Exercise####
 * [Code Academy](http://www.codecademy.com/tracks/web): It is a site that contains interactive courses on how to program
+
+### 1.2 HTML5 Semantics & Markup
+
+####Materials####
+
+* [http://diveintohtml5.info/](http://diveintohtml5.info/)
+* [Slides HTML 5](nuriasuarez.github.io/htmlcss-topic0/html5/slides.html)
+
+####Exercise####
+* [Exercise 1 - HTML5](http://nuriasuarez.github.io/htmlcss-topic0/html5/exercise/exercise1.html)
+
+####More Documentation####
+* [Create the page structure](https://developers.google.com/web/fundamentals/getting-started/your-first-multi-screen-site/content)
+
+### 1.3 Doctypes & Metatags:
+
+####Materials####
+* [HTML Validation](https://docs.webplatform.org/wiki/guides/html_validation)
+* [WHAT DOES IT ALL MEAN?](http://diveintohtml5.info/semantics.html)
+* [Slides Doctype](nuriasuarez.github.io/htmlcss-topic0/html-doctype-meta/slides.html)
+
+####Exercise####
+* [Exercise 1 - Doctype](http://nuriasuarez.github.io/htmlcss-topic0/html-doctype-meta/exercise/exercise1.html)
+
+####More Documentation####
+* [W3C Validator](http://validator.w3.org/)
+* [The HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
+
+### 1.4 Accessibility
+	* Understand **why** accessibility is important:
+		* [W3C Accessibility](http://www.w3.org/standards/webdesign/accessibility)
+	* Understand **how** to make web document accessible:
+		* [508 checklist](http://webaim.org/standards/508/checklist)
+		* [BBC Accessibility Guideline](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/html/).
+		* [Leverage HTML5 features to improve accessibility](http://www.w3.org/Talks/2014/0317-HTML5-A11Y/)
+		* [Accessibility: The Missing Ingredient](http://alistapart.com/article/accessibility-the-missing-ingredient)
+	* **Validate** your markup to see if it is accessible:
+		* Install a screen reader like [ChromeVox](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en), and test your HTML document.
+		* Install [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en), and perform an audit on your markup.
+
+
+###More Documentation###
+* [Lear about performance](https://developers.google.com/web/fundamentals/performance/)
 
 
 # CSS
