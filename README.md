@@ -67,7 +67,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 	* Install [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en), and perform an audit on your markup.
 
 
-###Extra ocumentation###
+###Extra Documentation###
 * [Lear about performance](https://developers.google.com/web/fundamentals/performance/)
 
 
