@@ -134,14 +134,14 @@ Through the rest of this section you will create a basic HTML document. After fi
 ### 3.3. Floats
 
 ###### Materials
-* [Floats](https://nuriasuarez.github.io/htmlcss-topic0/css/css-floats.html#slide1)
+* [Floats Slides](https://nuriasuarez.github.io/htmlcss-topic0/css/css-floats.html#slide1)
 
 ###### Exercise
 
 ### 3.4. Positioning
 
 ###### Materials
-* [Positioning](https://nuriasuarez.github.io/htmlcss-topic0/css/css-positioning.html#slide1)
+* [Positioning Slides](https://nuriasuarez.github.io/htmlcss-topic0/css/css-positioning.html#slide1)
 
 ###### Exercise
 
