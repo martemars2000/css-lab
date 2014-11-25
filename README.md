@@ -12,7 +12,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 * understand how to structure HTML documents, and what the basic building blocks are
 * understand best practices to write valid, accessible, and semantic HTML markup.
 
-### 1.1 Basic HTML tags
+### 1.1. Basic HTML tags
 
 ####Materials####
 
@@ -27,7 +27,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 ####Optional Exercise####
 * [Code Academy](http://www.codecademy.com/tracks/web): It is a site that contains interactive courses on how to program
 
-### 1.2 HTML5 Semantics & Markup
+### 1.2. HTML5 Semantics & Markup
 
 ####Materials####
 
@@ -40,7 +40,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 ####More Documentation####
 * [Create the page structure](https://developers.google.com/web/fundamentals/getting-started/your-first-multi-screen-site/content)
 
-### 1.3 Doctypes & Metatags:
+### 1.3. Doctypes & Metatags:
 
 ####Materials####
 * [HTML Validation](https://docs.webplatform.org/wiki/guides/html_validation)
@@ -54,7 +54,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 * [W3C Validator](http://validator.w3.org/)
 * [The HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
 
-### 1.4 Accessibility
+### 1.4. Accessibility
 	* Understand **why** accessibility is important:
 		* [W3C Accessibility](http://www.w3.org/standards/webdesign/accessibility)
 	* Understand **how** to make web document accessible:
