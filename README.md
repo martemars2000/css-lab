@@ -24,6 +24,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 * [Exercise 1 - Basic HTML](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise1.html)
 * [Exercise 2 - Basic Page](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise2.html)
 * [Posible Solution](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise_solution_2.html)
+
 ###### Optional Exercise
 * [Code Academy](http://www.codecademy.com/tracks/web): It is a site that contains interactive courses on how to program
 
@@ -36,6 +37,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 ###### Exercise
 * [Exercise 1 - HTML5](http://nuriasuarez.github.io/htmlcss-topic0/html5/exercise/exercise1.html)
 * [Posible Solution](http://nuriasuarez.github.io/htmlcss-topic0/html5/exercise/exercise_solution_1.html)
+
 ###### More Documentation
 * [Create the page structure](https://developers.google.com/web/fundamentals/getting-started/your-first-multi-screen-site/content)
 
@@ -82,6 +84,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 
 ###### Exercise
 * [Selectors Exercise](http://nuriasuarez.github.io/htmlcss-topic0/css/exercise/exercise1.html)
+* [Posible Solution](http://nuriasuarez.github.io/htmlcss-topic0/css/exercise/solution/exercise_solution_1.html)
 
 ###### More Documentation
 * [CSS3 selectors sheet](http://www.w3.org/TR/css3-selectors/)
@@ -97,6 +100,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 
 ###### Exercise
 * [Exercise](http://nuriasuarez.github.io/htmlcss-topic0/css/exercise/exercise2.html)
+* [Posible Solution](http://nuriasuarez.github.io/htmlcss-topic0/css/exercise/solution/exercise_solution_2.html)
 * How could you add weight to the global font definition to override all the overrides provided by point c?
 * Imagine you have something like class=”oh-no-inline-styles” style=”background:red” and you should change the background to green but without changing the inline style, How could you accomplish this?
 
@@ -120,7 +124,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 * [Learn CSS fundamentals that are used in any website's layout] (http://learnlayout.com/)
 
 ###### Exercise
-
+)
 
 ### 3.2. Box Model
 
@@ -133,7 +137,8 @@ Through the rest of this section you will create a basic HTML document. After fi
   * Use the playground provided above to change *box-sizing* and see the changes.
 
 ###### Exercise
-[Box Model Exercise](http://nuriasuarez.github.io/htmlcss-topic0/css/exercise/exercise3-boxmodel.html)
+* [Box Model Exercise](http://nuriasuarez.github.io/htmlcss-topic0/css/exercise/exercise3-boxmodel.html)
+* [Posible Solution](http://nuriasuarez.github.io/htmlcss-topic0/css/exercise/solution/exercise_solution_3-boxmodel.html)
 
 ### 3.3. Floats
 
