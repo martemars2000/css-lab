@@ -16,7 +16,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 
 ###### Materials
 * [WebPlatform](http://docs.webplatform.org/wiki/html/tutorials)
-* [Slides Intro](nuriasuarez.github.io/htmlcss-topic0/html-intro/slides.html)
+* [Slides Intro](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/slides.html)
 
 ###### Exercise
 * [Exercise 1 - Basic HTML](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise1.html)
@@ -30,7 +30,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 
 ###### Materials
 * [http://diveintohtml5.info/](http://diveintohtml5.info/)
-* [Slides HTML 5](nuriasuarez.github.io/htmlcss-topic0/html5/slides.html)
+* [Slides HTML 5](http://nuriasuarez.github.io/htmlcss-topic0/html5/slides.html)
 
 ###### Exercise
 * [Exercise 1 - HTML5](http://nuriasuarez.github.io/htmlcss-topic0/html5/exercise/exercise1.html)
