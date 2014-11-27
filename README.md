@@ -1,5 +1,7 @@
 # Basics of HTML and CSS
 
+Before to start the training, take a look the [tools](https://github.com/nuriasuarez/web-fundamentals-tools) needed to do the work more easily.
+
 ##1. HTML
 
 For an introduction to HTML please see [WebPlatform](http://docs.webplatform.org/wiki/html/tutorials).
@@ -21,7 +23,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 ###### Exercise
 * [Exercise 1 - Basic HTML](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise1.html)
 * [Exercise 2 - Basic Page](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise2.html)
-
+* [Posible Solution](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise_solution_2.html)
 ###### Optional Exercise
 * [Code Academy](http://www.codecademy.com/tracks/web): It is a site that contains interactive courses on how to program
 
@@ -33,7 +35,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 
 ###### Exercise
 * [Exercise 1 - HTML5](http://nuriasuarez.github.io/htmlcss-topic0/html5/exercise/exercise1.html)
-
+* [Posible Solution](http://nuriasuarez.github.io/htmlcss-topic0/html5/exercise/exercise_solution_1.html)
 ###### More Documentation
 * [Create the page structure](https://developers.google.com/web/fundamentals/getting-started/your-first-multi-screen-site/content)
 
@@ -46,6 +48,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 
 ###### Exercise
 * [Exercise 1 - Doctype](http://nuriasuarez.github.io/htmlcss-topic0/html-doctype-meta/exercise/exercise1.html)
+
 
 ###### More Documentation
 * [W3C Validator](http://validator.w3.org/)
