@@ -21,7 +21,6 @@ Through the rest of this section you will create a basic HTML document. After fi
 ###### Exercise
 * [Exercise 1 - Basic HTML](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise1.html)
 * [Exercise 2 - Basic Page](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise2.html)
-* [Exercise 3 - Structure and Form](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise3.html)
 
 ###### Optional Exercise
 * [Code Academy](http://www.codecademy.com/tracks/web): It is a site that contains interactive courses on how to program
