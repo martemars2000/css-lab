@@ -166,3 +166,4 @@ Through the rest of this section you will create a basic HTML document. After fi
 * [Media queries](http://estelle.github.io/html5training/css_media.html#slide1)
 
 ####Exercise####
+* Make the page created before to be responsive. 
