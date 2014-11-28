@@ -124,7 +124,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 * [Learn CSS fundamentals that are used in any website's layout] (http://learnlayout.com/)
 
 ###### Exercise
-)
+
 
 ### 3.2. Box Model
 
