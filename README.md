@@ -16,7 +16,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 
 ### 1.1. Basic HTML tags
 
-###### Materials
+###### Resources
 * [WebPlatform](http://docs.webplatform.org/wiki/html/tutorials)
 * [Slides Intro](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/slides.html)
 
@@ -30,7 +30,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 
 ### 1.2. HTML5 Semantics & Markup
 
-###### Materials
+###### Resources
 * [http://diveintohtml5.info/](http://diveintohtml5.info/)
 * [Slides HTML 5](http://nuriasuarez.github.io/htmlcss-topic0/html5/slides.html)
 
@@ -43,7 +43,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 
 ### 1.3. Doctypes & Metatags:
 
-###### Materials
+###### Resources
 * [HTML Validation](https://docs.webplatform.org/wiki/guides/html_validation)
 * [WHAT DOES IT ALL MEAN?](http://diveintohtml5.info/semantics.html)
 * [Slides Doctype](nuriasuarez.github.io/htmlcss-topic0/html-doctype-meta/slides.html)
@@ -77,7 +77,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 
 ### 2.1 Selectors and properties
 
-###### Materials
+###### Resources
 * [Introduction to selectors Slides](http://nuriasuarez.github.io/htmlcss-topic0/css/css-selectors.html#slide1)
 * [Brief of CSS selectors](http://www.sitepoint.com/web-foundations/css-selectors/)
 * [Slides selectors - complete](http://estelle.github.io/selectors/#slide1)
@@ -119,7 +119,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 
 ### 3.1. Block elements
 
-###### Materials
+###### Resources
 * [Grouping elements Slides](https://nuriasuarez.github.io/htmlcss-topic0/css/css-grouping.html#slide1)
 * [Learn CSS fundamentals that are used in any website's layout] (http://learnlayout.com/)
 
@@ -128,7 +128,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 
 ### 3.2. Box Model
 
-###### Materials
+###### Resources
 * [Box Model Slides](https://nuriasuarez.github.io/htmlcss-topic0/css/css-boxmodel.html#slide1)
 * [Learn about the Box Model (how the browser calculate boxes size)](http://www.w3.org/TR/CSS21/box.html)
   * [Play with it here changing width / margin / padding / box-sizing](http://dabblet.com/gist/2986528)
@@ -142,14 +142,14 @@ Through the rest of this section you will create a basic HTML document. After fi
 
 ### 3.3. Floats
 
-###### Materials
+###### Resources
 * [Floats Slides](https://nuriasuarez.github.io/htmlcss-topic0/css/css-floats.html#slide1)
 
 ###### Exercise
 
 ### 3.4. Positioning
 
-###### Materials
+###### Resources
 * [Positioning Slides](https://nuriasuarez.github.io/htmlcss-topic0/css/css-positioning.html#slide1)
 
 ###### Exercise
@@ -161,7 +161,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 * RWD concepts
 * Media queries
 
-####Materials####
+#### Resources
 * [Video Responsive Web Design Tutorial and Explanation - Desktop First](https://www.youtube.com/watch?v=BIz02qY5BRA)
 * [A simple guide to responsive web design] (http://www.adamkaplan.me/grid/)
 * [Media queries](http://estelle.github.io/html5training/css_media.html#slide1)
