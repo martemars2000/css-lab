@@ -123,9 +123,6 @@ Through the rest of this section you will create a basic HTML document. After fi
 * [Grouping elements Slides](https://nuriasuarez.github.io/htmlcss-topic0/css/css-grouping.html#slide1)
 * [Learn CSS fundamentals that are used in any website's layout] (http://learnlayout.com/)
 
-###### Exercise
-
-
 ### 3.2. Box Model
 
 ###### Resources
@@ -135,10 +132,6 @@ Through the rest of this section you will create a basic HTML document. After fi
 * [How to alter the box model calculations](http://quirksmode.org/css/user-interface/boxsizing.html)
 * [Extra about box-sizing](http://adamschwartz.co/magic-of-css/chapters/1-the-box/)
   * Use the playground provided above to change *box-sizing* and see the changes.
-
-###### Exercise
-* [Box Model Exercise](http://nuriasuarez.github.io/htmlcss-topic0/css/exercise/exercise3-boxmodel.html)
-* [Posible Solution](http://nuriasuarez.github.io/htmlcss-topic0/css/exercise/solution/exercise_solution_3-boxmodel.html)
 
 ### 3.3. Floats
 
@@ -152,8 +145,9 @@ Through the rest of this section you will create a basic HTML document. After fi
 ###### Resources
 * [Positioning Slides](https://nuriasuarez.github.io/htmlcss-topic0/css/css-positioning.html#slide1)
 
-###### Exercise
-
+### 3.5. Exercise
+* [Exercise] (https://nuriasuarez.github.io/blob/master/htmlcss-topic0/css/exercise/exercise3.html)
+* [Posible solution] (http://nuriasuarez.github.io/htmlcss-topic0/css/exercise/solution/exercise_solution_3.html)
 
 # Responsive Web Design
 
@@ -165,6 +159,9 @@ Through the rest of this section you will create a basic HTML document. After fi
 * [Video Responsive Web Design Tutorial and Explanation - Desktop First](https://www.youtube.com/watch?v=BIz02qY5BRA)
 * [A simple guide to responsive web design] (http://www.adamkaplan.me/grid/)
 * [Media queries](http://estelle.github.io/html5training/css_media.html#slide1)
+
+####More Documentation####
+* [Responsive Web Design](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/)
 
 ####Exercise####
 * Make the page created before to be responsive. 
