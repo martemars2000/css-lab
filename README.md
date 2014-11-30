@@ -73,7 +73,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 * [Lear about performance](https://developers.google.com/web/fundamentals/performance/)
 
 
-#2. CSS
+##2. CSS
 
 ### 2.1 Selectors and properties
 
@@ -149,19 +149,15 @@ Through the rest of this section you will create a basic HTML document. After fi
 * [Exercise] (https://nuriasuarez.github.io/blob/master/htmlcss-topic0/css/exercise/exercise3.html)
 * [Posible solution] (http://nuriasuarez.github.io/htmlcss-topic0/css/exercise/solution/exercise_solution_3.html)
 
-# Responsive Web Design
+##4. Responsive Web Design
 
-####Topics:####
-* RWD concepts
-* Media queries 
-
-#### Resources
+###### Resources
 * [Video Responsive Web Design Tutorial and Explanation - Desktop First](https://www.youtube.com/watch?v=BIz02qY5BRA)
 * [A simple guide to responsive web design] (http://www.adamkaplan.me/grid/)
 * [Media queries](http://estelle.github.io/html5training/css_media.html#slide1)
 
-####More Documentation####
+###### More Documentation
 * [Responsive Web Design](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/)
 
-####Exercise####
+###### Exercise
 * Make the page created before to be responsive. 
