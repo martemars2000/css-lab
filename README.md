@@ -153,7 +153,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 
 ####Topics:####
 * RWD concepts
-* Media queries
+* Media queries 
 
 #### Resources
 * [Video Responsive Web Design Tutorial and Explanation - Desktop First](https://www.youtube.com/watch?v=BIz02qY5BRA)
