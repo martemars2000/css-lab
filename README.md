@@ -31,11 +31,11 @@ Through the rest of this section you will create a basic HTML document. After fi
 ### 1.1. Basic HTML tags
 
 ###### Resources
-* [WebPlatform](http://docs.webplatform.org/wiki/html/tutorials)
 * [Slides Intro](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/slides.html)
+* [WebPlatform](http://docs.webplatform.org/wiki/html/tutorials)
 
 ###### Exercise
-* [Create a basic Page](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise2.html)
+* [Create a basic page](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise2.html)
 * [Posible Solution](http://nuriasuarez.github.io/htmlcss-topic0/solution/partial/exercise1/)
 
 ###### Optional Exercise
@@ -44,8 +44,8 @@ Through the rest of this section you will create a basic HTML document. After fi
 ### 1.2. HTML5 Semantics & Markup
 
 ###### Resources
-* [http://diveintohtml5.info/](http://diveintohtml5.info/)
 * [Slides HTML 5](http://nuriasuarez.github.io/htmlcss-topic0/html5/slides.html)
+* [http://diveintohtml5.info/](http://diveintohtml5.info/)
 
 ###### Exercise
 * [Exercise 1 - HTML5](http://nuriasuarez.github.io/htmlcss-topic0/html5/exercise/exercise1.html)
@@ -81,10 +81,8 @@ Through the rest of this section you will create a basic HTML document. After fi
 	* Install a screen reader like [ChromeVox](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en), and test your HTML document.
 	* Install [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en), and perform an audit on your markup.
 
-
 ###Extra Documentation###
 * [Lear about performance](https://developers.google.com/web/fundamentals/performance/)
-
 
 ##2. CSS
 
@@ -96,8 +94,6 @@ Through the rest of this section you will create a basic HTML document. After fi
 * [Slides selectors - complete](http://estelle.github.io/selectors/#slide1)
 
 ###### Exercise
-* [Selectors Exercise](http://nuriasuarez.github.io/htmlcss-topic0/css/exercise/exercise1.html)
-* [Posible Solution](http://nuriasuarez.github.io/htmlcss-topic0/css/exercise/solution/exercise_solution_1.html)
 
 ###### More Documentation
 * [CSS3 selectors sheet](http://www.w3.org/TR/css3-selectors/)
@@ -159,8 +155,6 @@ Through the rest of this section you will create a basic HTML document. After fi
 * [Positioning Slides](https://nuriasuarez.github.io/htmlcss-topic0/css/css-positioning.html#slide1)
 
 ### 3.5. Exercise
-* [Exercise] (https://nuriasuarez.github.io/blob/master/htmlcss-topic0/css/exercise/exercise3.html)
-* [Posible solution] (http://nuriasuarez.github.io/htmlcss-topic0/css/exercise/solution/exercise_solution_3.html)
 
 ##4. Responsive Web Design
 
