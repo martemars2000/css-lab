@@ -1,6 +1,6 @@
 # Basics of HTML and CSS
 
-Before to start the training, take a look the [tools](https://github.com/nuriasuarez/web-fundamentals-tools) needed to do the work more easily.
+Before to start the training, take a look the [tools](https://github.com/nuriasuarez/web-fundamentals-tools) needed to do the work easily.
 
 ##1. HTML
 
