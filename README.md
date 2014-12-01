@@ -6,8 +6,9 @@ The goal of this guide is to create a page with the following requirement:
 * An area that contains a logo and a nav.
 * An area that describes at a high-level of Bootcamp HTML course.
 * A form to collect information from users who are interested in our trainning
-* An in depth description and video
-* Images of the main web laguages
+* An in depth description, images of the main web languages and video
+* An area that describes who can attend the training
+* An area that describes the tools needed to work
 * An area that contains the footer
 
 Mockups of the information architecture for both the narrow and wide viewport:
