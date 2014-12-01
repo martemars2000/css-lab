@@ -11,8 +11,7 @@ The goal of this guide is to create a page with the following requirement:
 * An area that contains the footer
 
 Mockups of the information architecture for both the narrow and wide viewport:
-![narrow viewport](/images/mockup-small.png)
-![wide viewport](/images/desktop-mockup.png)
+![narrow viewport](/images/mockup.jpg)
 
 ##1. HTML
 
