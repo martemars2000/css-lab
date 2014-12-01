@@ -35,9 +35,8 @@ Through the rest of this section you will create a basic HTML document. After fi
 * [Slides Intro](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/slides.html)
 
 ###### Exercise
-* [Exercise 1 - Basic HTML](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise1.html)
-* [Exercise 2 - Basic Page](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise2.html)
-* [Posible Solution](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise_solution_2.html)
+* [Create a basic Page](http://nuriasuarez.github.io/htmlcss-topic0/html-intro/exercise/exercise2.html)
+* [Posible Solution](http://nuriasuarez.github.io/htmlcss-topic0/solution/partial/exercise1/)
 
 ###### Optional Exercise
 * [Code Academy](http://www.codecademy.com/tracks/web): It is a site that contains interactive courses on how to program
@@ -50,7 +49,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 
 ###### Exercise
 * [Exercise 1 - HTML5](http://nuriasuarez.github.io/htmlcss-topic0/html5/exercise/exercise1.html)
-* [Posible Solution](http://nuriasuarez.github.io/htmlcss-topic0/html5/exercise/exercise_solution_1.html)
+* [Posible Solution](http://nuriasuarez.github.io/htmlcss-topic0/solution/partial/exercise1/)
 
 ###### More Documentation
 * [Create the page structure](https://developers.google.com/web/fundamentals/getting-started/your-first-multi-screen-site/content)
