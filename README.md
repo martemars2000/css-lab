@@ -2,7 +2,7 @@
 
 Before to start the training, take a look the [tools](https://github.com/nuriasuarez/web-fundamentals-tools) needed to do the work easily.
 
-After you install all the tools, fork this repo [https://github.com/nuriasuarez/startup/tree/master](https://github.com/nuriasuarez/startup/tree/master) to use as a base to host the project code.
+After you install all the tools, fork this repo [https://github.com/nuriasuarez/startup/](https://github.com/nuriasuarez/startup/) to use as a base to host the project code.
 
 The goal of this guide is to create a web page with the following requirement:
 * An area that contains a logo and a nav.
