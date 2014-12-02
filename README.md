@@ -57,10 +57,11 @@ Through the rest of this section you will create a basic HTML document. After fi
 ### 1.3. Doctypes & Metatags:
 
 ###### Resources
+* [Slides Doctype](http://nuriasuarez.github.io/htmlcss-topic0/html-doctype-meta/slides.html#slide1)
 * [HTML Validation](https://docs.webplatform.org/wiki/guides/html_validation)
 * [WHAT DOES IT ALL MEAN?](http://diveintohtml5.info/semantics.html)
 * [Meta viewport tag](http://www.quirksmode.org/mobile/metaviewport/)
-* [Slides Doctype](nuriasuarez.github.io/htmlcss-topic0/html-doctype-meta/slides.html)
+
 
 ###### Exercise
 * [Exercise 1 - Doctype](http://nuriasuarez.github.io/htmlcss-topic0/html-doctype-meta/exercise/exercise1.html)
