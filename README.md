@@ -59,6 +59,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 ###### Resources
 * [HTML Validation](https://docs.webplatform.org/wiki/guides/html_validation)
 * [WHAT DOES IT ALL MEAN?](http://diveintohtml5.info/semantics.html)
+* [Meta viewport tag](http://www.quirksmode.org/mobile/metaviewport/)
 * [Slides Doctype](nuriasuarez.github.io/htmlcss-topic0/html-doctype-meta/slides.html)
 
 ###### Exercise
