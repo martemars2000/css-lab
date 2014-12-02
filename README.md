@@ -49,7 +49,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 
 ###### Exercise
 * [Exercise 1 - HTML5](http://nuriasuarez.github.io/htmlcss-topic0/html5/exercise/exercise1.html)
-* [Posible Solution](http://nuriasuarez.github.io/htmlcss-topic0/solution/partial/exercise1/)
+* [Posible Solution](http://nuriasuarez.github.io/htmlcss-topic0/solution/partial/exercise2/)
 
 ###### More Documentation
 * [Create the page structure](https://developers.google.com/web/fundamentals/getting-started/your-first-multi-screen-site/content)
