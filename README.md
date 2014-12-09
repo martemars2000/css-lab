@@ -96,6 +96,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 * [Slides selectors - complete](http://estelle.github.io/selectors/#slide1)
 
 ###### Exercise
+* [Exercise 1 - CSS](http://nuriasuarez.github.io/htmlcss-topic0/css/exercise/exercise1.html)
 
 ###### More Documentation
 * [CSS3 selectors sheet](http://www.w3.org/TR/css3-selectors/)
@@ -110,7 +111,6 @@ Through the rest of this section you will create a basic HTML document. After fi
 * [Learn about CSS Specificity (basically how the rules override others)](http://www.w3.org/TR/CSS21/cascade.html#specificity)
 
 ###### Exercise
-* [Exercise](http://nuriasuarez.github.io/htmlcss-topic0/css/exercise/exercise2.html)
 * [Posible Solution](http://nuriasuarez.github.io/htmlcss-topic0/css/exercise/solution/exercise_solution_2.html)
 * How could you add weight to the global font definition to override all the overrides provided by point c?
 * Imagine you have something like class=”oh-no-inline-styles” style=”background:red” and you should change the background to green but without changing the inline style, How could you accomplish this?
