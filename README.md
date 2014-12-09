@@ -100,6 +100,8 @@ Through the rest of this section you will create a basic HTML document. After fi
 
 ###### More Documentation
 * [CSS3 selectors sheet](http://www.w3.org/TR/css3-selectors/)
+* [Box Shadow](http://css3gen.com/box-shadow/)
+* [Multiple Background](http://www.css3.info/preview/multiple-backgrounds/)
 * [Play a little game to consolidate your knowledge](http://flukeout.github.io/)
 * [Bookmark the following list of properties for future reference](http://ref.openweb.io/CSS/)
 * [Bookmark a reference of CSS Vocabulary](http://pumpula.net/p/apps/css-vocabulary/)
