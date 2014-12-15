@@ -91,7 +91,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 ### 2.1 Selectors and properties
 
 ###### Resources
-* [Introduction to selectors Slides](http://nuriasuarez.github.io/htmlcss-topic0/css/css-selectors.html#slide1)
+* [Introduction to CSS Slides](http://nuriasuarez.github.io/htmlcss-topic0/css/slides.html#slide1)
 * [Brief of CSS selectors](http://www.sitepoint.com/web-foundations/css-selectors/)
 * [Slides selectors - complete](http://estelle.github.io/selectors/#slide1)
 
