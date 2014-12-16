@@ -160,6 +160,10 @@ Through the rest of this section you will create a basic HTML document. After fi
 ###### Resources
 * [Positioning Slides](https://nuriasuarez.github.io/htmlcss-topic0/css/css-positioning.html#slide1)
 
+###### Exercise
+* [Box Model Exercise](http://nuriasuarez.github.io/htmlcss-topic0/css/exercise/position.html)
+* [Posible Solution](http://nuriasuarez.github.io/htmlcss-topic0/css/exercise/solution/position-solution.html)
+
 ### 3.3. Floats
 
 ###### Resources
