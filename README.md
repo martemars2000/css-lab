@@ -161,7 +161,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 * [Positioning Slides](https://nuriasuarez.github.io/htmlcss-topic0/css/css-positioning.html#slide1)
 
 ###### Exercise
-* [Box Model Exercise](http://nuriasuarez.github.io/htmlcss-topic0/css/exercise/position.html)
+* [Positioning Exercise](http://nuriasuarez.github.io/htmlcss-topic0/css/exercise/position.html)
 * [Posible Solution](http://nuriasuarez.github.io/htmlcss-topic0/css/exercise/solution/position-solution.html)
 
 ### 3.3. Floats
@@ -170,6 +170,8 @@ Through the rest of this section you will create a basic HTML document. After fi
 * [Floats Slides](https://nuriasuarez.github.io/htmlcss-topic0/css/css-floats.html#slide1)
 
 ###### Exercise
+* [Floats Exercise](http://nuriasuarez.github.io/htmlcss-topic0/css/exercise/float.html)
+* [Posible Solution](http://nuriasuarez.github.io/htmlcss-topic0/css/exercise/solution/float-solution.html)
 
 
 ### 3.5. Final Css Layout Exercise
