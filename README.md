@@ -130,7 +130,18 @@ Through the rest of this section you will create a basic HTML document. After fi
 
 ##3. CSS Layout
 
-### 3.1. Box Model
+[Learn CSS fundamentals that are used in any website's layout] (http://learnlayout.com/)
+
+### 3.1. Block elements
+
+###### Resources
+* [Grouping elements Slides](https://nuriasuarez.github.io/htmlcss-topic0/css/css-grouping.html#slide1)
+
+###### Exercise
+* [Grouping Exercise](https://nuriasuarez.github.io/htmlcss-topic0/css/exercise/grouping.html)
+* [Posible Solution](https://nuriasuarez.github.io/htmlcss-topic0/css/exercise/solution/grouping-solution.html)
+
+### 3.2. Box Model
 
 ###### Resources
 * [Box Model Slides](https://nuriasuarez.github.io/htmlcss-topic0/css/css-boxmodel.html#slide1)
@@ -143,16 +154,6 @@ Through the rest of this section you will create a basic HTML document. After fi
 ###### Exercise
 * [Box Model Exercise](https://nuriasuarez.github.io/htmlcss-topic0/css/exercise/box-model.html)
 * [Posible Solution](https://nuriasuarez.github.io/htmlcss-topic0/css/exercise/solution/box-model-solution.html)
-
-### 3.2. Block elements
-
-###### Resources
-* [Grouping elements Slides](https://nuriasuarez.github.io/htmlcss-topic0/css/css-grouping.html#slide1)
-* [Learn CSS fundamentals that are used in any website's layout] (http://learnlayout.com/)
-
-###### Exercise
-* [Grouping Exercise](https://nuriasuarez.github.io/htmlcss-topic0/css/exercise/grouping.html)
-* [Posible Solution](https://nuriasuarez.github.io/htmlcss-topic0/css/exercise/solution/grouping-solution.html)
 
 ### 3.3. Floats
 
