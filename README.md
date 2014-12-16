@@ -142,6 +142,7 @@ Through the rest of this section you will create a basic HTML document. After fi
   
 ###### Exercise
 * [Box Model Exercise](https://nuriasuarez.github.io/htmlcss-topic0/css/exercise/box-model.html)
+* [Posible Solution](https://nuriasuarez.github.io/htmlcss-topic0/css/exercise/solution/box-model-solution.html)
 
 ### 3.2. Block elements
 
@@ -151,6 +152,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 
 ###### Exercise
 * [Grouping Exercise](https://nuriasuarez.github.io/htmlcss-topic0/css/exercise/grouping.html)
+* [Posible Solution](https://nuriasuarez.github.io/htmlcss-topic0/css/exercise/solution/grouping-solution.html)
 
 ### 3.3. Floats
 
