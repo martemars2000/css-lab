@@ -155,6 +155,11 @@ Through the rest of this section you will create a basic HTML document. After fi
 * [Box Model Exercise](https://nuriasuarez.github.io/htmlcss-topic0/css/exercise/box-model.html)
 * [Posible Solution](https://nuriasuarez.github.io/htmlcss-topic0/css/exercise/solution/box-model-solution.html)
 
+### 3.4. Positioning
+
+###### Resources
+* [Positioning Slides](https://nuriasuarez.github.io/htmlcss-topic0/css/css-positioning.html#slide1)
+
 ### 3.3. Floats
 
 ###### Resources
@@ -162,12 +167,10 @@ Through the rest of this section you will create a basic HTML document. After fi
 
 ###### Exercise
 
-### 3.4. Positioning
 
-###### Resources
-* [Positioning Slides](https://nuriasuarez.github.io/htmlcss-topic0/css/css-positioning.html#slide1)
-
-### 3.5. Exercise
+### 3.5. Final Css Layout Exercise
+* [Css Layout Exercise](http://nuriasuarez.github.io/htmlcss-topic0/css/exercise/css-layout.html)
+* [Posible solution](http://nuriasuarez.github.io/htmlcss-topic0/solution/partial/exercise3/index.html)
 
 ##4. Responsive Web Design
 
