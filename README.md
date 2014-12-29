@@ -181,12 +181,14 @@ Through the rest of this section you will create a basic HTML document. After fi
 ##4. Responsive Web Design
 
 ###### Resources
-* [Video Responsive Web Design Tutorial and Explanation - Desktop First](https://www.youtube.com/watch?v=BIz02qY5BRA)
-* [A simple guide to responsive web design] (http://www.adamkaplan.me/grid/)
-* [Media queries](http://estelle.github.io/html5training/css_media.html#slide1)
+* [Responsive Web Design Basics](https://developers.google.com/web/fundamentals/layouts/rwd-fundamentals/)
+* [A simple guide to responsive web design](http://www.adamkaplan.me/grid/)
+* [Media queries Slides](http://estelle.github.io/html5training/css_media.html#slide1)
 
 ###### More Documentation
 * [Responsive Web Design](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/)
+* [RWD Patterns](https://developers.google.com/web/fundamentals/layouts/rwd-patterns/)
+* [Video Responsive Web Design Tutorial and Explanation - Desktop First](https://www.youtube.com/watch?v=BIz02qY5BRA)
 
 ###### Exercise
 * Make the page created before to be responsive. 
