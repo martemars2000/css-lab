@@ -183,6 +183,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 ###### Resources
 * [Responsive Web Design Basics](https://developers.google.com/web/fundamentals/layouts/rwd-fundamentals/)
 * [A simple guide to responsive web design](http://www.adamkaplan.me/grid/)
+* [Slides](http://es.slideshare.net/antoniodepasquale/responsive-webdesign-workshopantoniodepasquale)
 
 ###### More Documentation
 * [Responsive Web Design](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/)
