@@ -195,4 +195,6 @@ Through the rest of this section you will create a basic HTML document. After fi
 * [Posible solution](http://nuriasuarez.github.io/htmlcss-topic0/responsive/exercise/solution/grid-system.html)
 
 ### 4.2 Media query
+###### Exercise
 * Make the page created before to be responsive. 
+* [Final posible solution](http://nuriasuarez.github.io/htmlcss-topic0/solution/index.html)
